@@ -29,13 +29,13 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
   <table>
     <tr>
       <td align="center">
-        <img src="./web.jpg" width="200px">
+        <img src="./web.jpg" width="300px">
         <br>
         <b>Curso de Programación Web</b>
         <p>Aprende desde cero a desarrollar aplicaciones web con HTML, CSS y JavaScript.</p>
       </td>
       <td align="center">
-        <img src="./ia." width="200px">
+        <img src="./ia.jpg" width="300px">
         <br>
         <b>Curso de Inteligencia Artificial</b>
         <p>Explora algoritmos de Machine Learning y Deep Learning aplicados.</p>

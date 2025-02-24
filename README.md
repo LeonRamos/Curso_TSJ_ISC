@@ -51,13 +51,13 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
   <table>
     <tr>
       <td align="center">
-        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/438260679_10229713277189090_5067799571923844842_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=H-BHANa8X3sQ7kNvgECvQFp&_nc_oc=Adj-10f9K6_Vc7DNQ9j-M4H1ySh6az5eYmLwLA9cWOHUTK36XjMrCzBkgU77Q8kd4X8&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=AahG__9d8Zn8wPO-5JuloA0&oh=00_AYCA7XcP6Oyntzd2vfM9Wp-AKiElTxTRHZw_n9d_jcfvtA&oe=67C2B981">
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/438260679_10229713277189090_5067799571923844842_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=H-BHANa8X3sQ7kNvgECvQFp&_nc_oc=Adj-10f9K6_Vc7DNQ9j-M4H1ySh6az5eYmLwLA9cWOHUTK36XjMrCzBkgU77Q8kd4X8&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=AahG__9d8Zn8wPO-5JuloA0&oh=00_AYCA7XcP6Oyntzd2vfM9Wp-AKiElTxTRHZw_n9d_jcfvtA&oe=67C2B981" width="200px">
         <br>
         <b>Nuestro Equipo</b>
         <p>Profesores expertos en diversas tecnologías, con amplia experiencia en el sector educativo y empresarial.</p>
       </td>
       <td align="center">
-        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/372636311_10228428405668105_5938303689899386159_n.png?stp=dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=536f4a&_nc_ohc=g7-ZEl7XbNYQ7kNvgEogt37&_nc_oc=AdjLdg9OhItX7SqcZd8yDd1awumqWtMHad8He0Bv0XrekAfkjjVN5KkZA6RV_92lTLQ&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=AOWOs_ypv0ayND68y24vyP6&oh=00_AYBbtBTiwDwy0EEiy8Cei3KPGdmq_Ag9S6_pUYu4JqwJ3w&oe=67C2CAA6" width="200px">
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/432928155_10229447533465663_2503889737155818312_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=OQ13rKqCPesQ7kNvgG735-g&_nc_oc=Adjr7Rd71375k2YggWdWdD3p3X5opjoBNzo_lrZKtfYfXaVaJDS7DlIj26HiptVve8w&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=AjF43QEX2dC7unJSbjdq6DR&oh=00_AYDuCiHmPZVEjMmzQLUfWvYKTB074skUV3QVFN6klV4DKw&oe=67C2B8D5" width="200px">
         <br>
         <b>Nuestra Misión</b>
         <p>Ofrecer cursos de alta calidad para preparar a los estudiantes en las tecnologías del futuro.</p>

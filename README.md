@@ -57,7 +57,7 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
         <p>Profesores expertos en diversas tecnologías, con amplia experiencia en el sector educativo y empresarial.</p>
       </td>
       <td align="center">
-        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/432928155_10229447533465663_2503889737155818312_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=OQ13rKqCPesQ7kNvgG735-g&_nc_oc=Adjr7Rd71375k2YggWdWdD3p3X5opjoBNzo_lrZKtfYfXaVaJDS7DlIj26HiptVve8w&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=AjF43QEX2dC7unJSbjdq6DR&oh=00_AYDuCiHmPZVEjMmzQLUfWvYKTB074skUV3QVFN6klV4DKw&oe=67C2B8D5" width="300px">
+        <img src="https://github.com/LeonRamos/Curso_TSJ_ISC/blob/main/teams.jpg" width="300px">
         <br>
         <b>Nuestra Misión</b>
         <p>Ofrecer cursos de alta calidad para preparar a los estudiantes en las tecnologías del futuro.</p>

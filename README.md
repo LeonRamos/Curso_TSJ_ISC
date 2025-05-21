@@ -51,13 +51,13 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/LeonRamos/Curso_TSJ_ISC/blob/main/teams.jpg" width="200px">
+        <img src="https://github.com/LeonRamos/Curso_TSJ_ISC/blob/main/teams.jpg" width="300px">
         <br>
         <b>Nuestro Equipo</b>
         <p>Profesores expertos en diversas tecnologías, con amplia experiencia en el sector educativo y empresarial.</p>
       </td>
       <td align="center">
-        <img src="https://github.com/LeonRamos/Curso_TSJ_ISC/blob/main/teams.jpg" width="300px">
+        <img src="https://github.com/LeonRamos/Curso_TSJ_ISC/blob/main/misions.png" width="300px">
         <br>
         <b>Nuestra Misión</b>
         <p>Ofrecer cursos de alta calidad para preparar a los estudiantes en las tecnologías del futuro.</p>

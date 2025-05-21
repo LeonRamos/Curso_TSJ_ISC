@@ -15,7 +15,7 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
 > ##### Si consideras útil el proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ### 🏆 Cursos Disponibles
-- 🖥 **[Programación Web](https://github.com/LeonRamos/Programaci-n_WEB/tree/LeonRamos-patch-1)** (HTML, CSS, JavaScript, React, Node.js)
+- 🖥 **[Programación Web](https://github.com/LeonRamos/Programacion_Web_AEB_1055)** (HTML, CSS, JavaScript, React, Node.js)
 - 🤖 **Inteligencia Artificial** (Machine Learning, Deep Learning, NLP)
 - 📊 **[Gestión de Proyectos](https://github.com/LeonRamos/gestionDeproyectos?tab=readme-ov-file)** (Scrum, Agile, PMP)
 - 🔧 **Otras Tecnologías** (Bases de Datos, DevOps, Cloud Computing)

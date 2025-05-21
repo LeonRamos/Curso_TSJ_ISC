@@ -17,7 +17,7 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
 ### 🏆 Cursos Disponibles
 - 🖥 **Programación Web** (HTML, CSS, JavaScript, React, Node.js)
 - 🤖 **Inteligencia Artificial** (Machine Learning, Deep Learning, NLP)
-- 📊 **Gestión de Proyectos** (Scrum, Agile, PMP)
+- 📊 **[Gestión de Proyectos](https://github.com/LeonRamos/gestionDeproyectos?tab=readme-ov-file)** (Scrum, Agile, PMP)
 - 🔧 **Otras Tecnologías** (Bases de Datos, DevOps, Cloud Computing)
 ### Visita [#TSJ](https://www.tecmm.edu.mx/)
 

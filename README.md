@@ -81,8 +81,7 @@ Bienvenido al repositorio personal de los cursos impartidos en la Academia de Si
 ---
 
 ### 📜 Licencia
-Este proyecto está bajo la licencia TSJ. Consulta el archivo [LICENSE](LICENSE) para más información.
-
+Este proyecto está bajo la licencia TSJ. Consulta el archivo [LICENSE](https://tecmm.edu.mx/media/documents/AP_INTEGRAL.pdf) para más información.
 
 Licencia Creative Commons especialmente adaptada. Consulta el archivo [LICENSE](https://creativecommons.org/licenses/by/4.0/) para más información.
 
